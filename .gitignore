@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+*.tfvars
+czech-morfflex-pdt-161115
+*.pyc
+/pipeline/s3/**
+.env
+config.py
